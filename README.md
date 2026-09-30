@@ -8,7 +8,7 @@
 > 一只在读研究生：主业给导师跑实验，副业给电脑喂 bug。
 
 <p align="center">
-  <img src="meow-talk.gif" width="420" alt="霸王喵说话动画" />
+  <img src="meow-talk-v3.gif" width="420" alt="霸王喵说话动画" />
 </p>
 
 ## 谁在敲键盘？
