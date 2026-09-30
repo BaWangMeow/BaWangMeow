@@ -1,5 +1,9 @@
 # 🐾 霸王喵 · BaWangMeow
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=F5C2E7&center=true&vCenter=true&width=560&lines=Meow~+Welcome+to+my+den;A+graduate+student+cat;Still+learning+to+code;Writes+more+bugs+than+code" alt="typing" />
+</p>
+
 > 名字很霸气，实际很怂。
 > 一只在读研究生：主业给导师跑实验，副业给电脑喂 bug。
 
@@ -50,8 +54,24 @@
 ## 📈 战绩面板
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaWangMeow&show_icons=true&theme=catppuccin_mocha&hide_title=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaWangMeow&layout=compact&theme=catppuccin_mocha" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaWangMeow&show_icons=true&theme=catppuccin_mocha&hide_title=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaWangMeow&layout=compact&theme=catppuccin_mocha" height="160" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BaWangMeow&theme=catppuccin-mocha&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BaWangMeow&theme=onedark&no-frame=true&column=6&margin-w=8&margin-h=8" alt="Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaWangMeow&theme=github-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaWangMeow&style=flat-square&color=F5C2E7" alt="visitors" />
 </p>
 
 ---
