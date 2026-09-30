@@ -1,0 +1,29 @@
+<svg width="320" height="140" viewBox="0 0 320 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="霸王喵文字表情循环">
+  <!-- ===== 表情1：装可爱 =^.^= （0-2s）===== -->
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" keyTimes="0;0.25;0.25;0.5;0.5;0.75;0.75;1" dur="8s" repeatCount="indefinite"/>
+    <text x="160" y="72" font-family="Consolas, 'Courier New', monospace" font-size="48" font-weight="bold" text-anchor="middle" fill="#1E1E2E">=^.^=</text>
+    <text x="160" y="116" font-family="'Segoe UI', sans-serif" font-size="20" text-anchor="middle" fill="#6C7086">装可爱</text>
+  </g>
+
+  <!-- ===== 表情2：开心 =ω= （2-4s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.25;0.25;0.5;0.5;0.75;0.75;1" dur="8s" repeatCount="indefinite"/>
+    <text x="160" y="72" font-family="Consolas, 'Courier New', monospace" font-size="48" font-weight="bold" text-anchor="middle" fill="#1E1E2E">=ω=</text>
+    <text x="160" y="116" font-family="'Segoe UI', sans-serif" font-size="20" text-anchor="middle" fill="#6C7086">开心</text>
+  </g>
+
+  <!-- ===== 表情3：惊讶 =口= （4-6s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.5;0.5;0.75;0.75;1" dur="8s" repeatCount="indefinite"/>
+    <text x="160" y="72" font-family="Consolas, 'Courier New', monospace" font-size="48" font-weight="bold" text-anchor="middle" fill="#1E1E2E">=口=</text>
+    <text x="160" y="116" font-family="'Segoe UI', sans-serif" font-size="20" text-anchor="middle" fill="#6C7086">惊讶</text>
+  </g>
+
+  <!-- ===== 表情4：得意 =▽= （6-8s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.25;0.25;0.5;0.5;0.75;0.75;1" dur="8s" repeatCount="indefinite"/>
+    <text x="160" y="72" font-family="Consolas, 'Courier New', monospace" font-size="48" font-weight="bold" text-anchor="middle" fill="#1E1E2E">=▽=</text>
+    <text x="160" y="116" font-family="'Segoe UI', sans-serif" font-size="20" text-anchor="middle" fill="#6C7086">得意</text>
+  </g>
+</svg>
