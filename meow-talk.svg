@@ -1,0 +1,98 @@
+<svg width="500" height="240" viewBox="0 0 500 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="霸王喵说话动画">
+  <!-- ===== 固定：耳朵 ===== -->
+  <polygon points="55,60 30,112 88,105" fill="#F5C2E7"/>
+  <polygon points="195,60 220,112 162,105" fill="#F5C2E7"/>
+  <polygon points="55,72 43,102 78,96" fill="#E8A2C8"/>
+  <polygon points="195,72 207,102 172,96" fill="#E8A2C8"/>
+
+  <!-- ===== 固定：脸 ===== -->
+  <ellipse cx="125" cy="145" rx="72" ry="62" fill="#F5C2E7"/>
+
+  <!-- ===== 固定：胡须 ===== -->
+  <g stroke="#1E1E2E" stroke-width="3" stroke-linecap="round">
+    <line x1="72" y1="140" x2="28" y2="130"/>
+    <line x1="72" y1="146" x2="25" y2="146"/>
+    <line x1="72" y1="152" x2="28" y2="162"/>
+    <line x1="178" y1="140" x2="222" y2="130"/>
+    <line x1="178" y1="146" x2="225" y2="146"/>
+    <line x1="178" y1="152" x2="222" y2="162"/>
+  </g>
+
+  <!-- ===== 固定：腮红 ===== -->
+  <ellipse cx="87" cy="163" rx="13" ry="8" fill="#F2A0B5" opacity="0.55"/>
+  <ellipse cx="163" cy="163" rx="13" ry="8" fill="#F2A0B5" opacity="0.55"/>
+
+  <!-- ===== 固定：说话气泡 ===== -->
+  <polygon points="215,122 196,144 215,142" fill="#FDE8F1"/>
+  <rect x="215" y="50" width="272" height="92" rx="20" fill="#FDE8F1" stroke="#F5C2E7" stroke-width="2.5"/>
+
+  <!-- ===== 表情1：装可爱 （0-2s）===== -->
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.1667;0.1667;0.3333;0.3333;0.5;0.5;0.6667;0.6667;0.8333;0.8333;1" dur="12s" repeatCount="indefinite"/>
+    <g stroke="#1E1E2E" stroke-width="4" stroke-linecap="round" fill="none">
+      <path d="M 88 135 Q 100 122 112 135"/>
+      <path d="M 138 135 Q 150 122 162 135"/>
+      <path d="M 110 174 Q 125 186 140 174"/>
+    </g>
+    <text x="351" y="101" font-family="'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="21" text-anchor="middle" fill="#1E1E2E">喵~ 要乖乖写代码哦</text>
+  </g>
+
+  <!-- ===== 表情2：开心 （2-4s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0;0;0;0" keyTimes="0;0.1667;0.1667;0.3333;0.3333;0.5;0.5;0.6667;0.6667;0.8333;0.8333;1" dur="12s" repeatCount="indefinite"/>
+    <g stroke="#1E1E2E" stroke-width="4" stroke-linecap="round" fill="none">
+      <path d="M 88 129 Q 100 142 112 129"/>
+      <path d="M 138 129 Q 150 142 162 129"/>
+      <path d="M 103 170 Q 125 194 147 170"/>
+    </g>
+    <text x="351" y="101" font-family="'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="21" text-anchor="middle" fill="#1E1E2E">代码终于跑通了！</text>
+  </g>
+
+  <!-- ===== 表情3：惊讶 （4-6s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0;0;0" keyTimes="0;0.1667;0.1667;0.3333;0.3333;0.5;0.5;0.6667;0.6667;0.8333;0.8333;1" dur="12s" repeatCount="indefinite"/>
+    <g fill="#1E1E2E">
+      <circle cx="100" cy="133" r="6.5"/>
+      <circle cx="150" cy="133" r="6.5"/>
+      <ellipse cx="125" cy="174" rx="12" ry="8.5"/>
+    </g>
+    <text x="351" y="101" font-family="'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="21" text-anchor="middle" fill="#1E1E2E">这 bug 哪来的？！</text>
+  </g>
+
+  <!-- ===== 表情4：得意 （6-8s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0;0;0" keyTimes="0;0.1667;0.1667;0.3333;0.3333;0.5;0.5;0.6667;0.6667;0.8333;0.8333;1" dur="12s" repeatCount="indefinite"/>
+    <g stroke="#1E1E2E" stroke-width="4" stroke-linecap="round" fill="none">
+      <line x1="88" y1="133" x2="112" y2="133"/>
+      <line x1="138" y1="133" x2="162" y2="133"/>
+      <path d="M 111 168 L 125 186 L 139 168"/>
+    </g>
+    <text x="351" y="101" font-family="'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="21" text-anchor="middle" fill="#1E1E2E">嘿嘿，我最聪明~</text>
+  </g>
+
+  <!-- ===== 表情5：困了 （8-10s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1;0;0" keyTimes="0;0.1667;0.1667;0.3333;0.3333;0.5;0.5;0.6667;0.6667;0.8333;0.8333;1" dur="12s" repeatCount="indefinite"/>
+    <g stroke="#1E1E2E" stroke-width="4" stroke-linecap="round" fill="none">
+      <line x1="90" y1="133" x2="108" y2="133"/>
+      <line x1="142" y1="133" x2="160" y2="133"/>
+      <line x1="114" y1="174" x2="136" y2="174"/>
+    </g>
+    <text x="351" y="101" font-family="'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="21" text-anchor="middle" fill="#1E1E2E">再改一个 bug 就睡</text>
+  </g>
+
+  <!-- ===== 表情6：生气 （10-12s）===== -->
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;1;1" keyTimes="0;0.1667;0.1667;0.3333;0.3333;0.5;0.5;0.6667;0.6667;0.8333;0.8333;1" dur="12s" repeatCount="indefinite"/>
+    <g stroke="#1E1E2E" stroke-width="4" stroke-linecap="round" fill="none">
+      <line x1="86" y1="122" x2="112" y2="130"/>
+      <line x1="164" y1="122" x2="138" y2="130"/>
+      <path d="M 108 170 Q 125 162 142 170"/>
+    </g>
+    <g fill="#1E1E2E">
+      <circle cx="99" cy="134" r="5.5"/>
+      <circle cx="151" cy="134" r="5.5"/>
+    </g>
+    <text x="351" y="101" font-family="'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="21" text-anchor="middle" fill="#1E1E2E">谁动了我的代码！</text>
+  </g>
+</svg>
