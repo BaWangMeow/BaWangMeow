@@ -22,10 +22,13 @@
 
 ## 方向 & 兴趣
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Automation](https://img.shields.io/badge/-自动化控制-8A2BE2?style=flat-square)
-![Hardware](https://img.shields.io/badge/-硬件折腾-ED8B00?style=flat-square)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![自动化控制](https://img.shields.io/badge/-自动化控制-8A2BE2?style=flat-square)]()
+[![硬件折腾](https://img.shields.io/badge/-硬件折腾-ED8B00?style=flat-square)]()
 
 🐱 撸猫 · ☕ 咖啡因依赖 · 💤 睡不醒 · 🎓 求毕业
 
@@ -54,24 +57,15 @@
 ## 📈 战绩面板
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaWangMeow&show_icons=true&theme=catppuccin_mocha&hide_title=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaWangMeow&layout=compact&theme=catppuccin_mocha" height="160" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=BaWangMeow&theme=catppuccin-mocha&hide_border=true" alt="连续打卡" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BaWangMeow&theme=catppuccin-mocha&hide_border=true" alt="Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="随机程序员名言" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaWangMeow&theme=onedark&no-frame=true&column=6&margin-w=8&margin-h=8" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaWangMeow&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaWangMeow&style=flat-square&color=F5C2E7" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=BaWangMeow&style=flat-square&color=F5C2E7" alt="访问计数" />
 </p>
 
 ---
