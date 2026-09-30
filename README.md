@@ -7,11 +7,10 @@
 > 名字很霸气，实际很怂。
 > 一只在读研究生：主业给导师跑实验，副业给电脑喂 bug。
 
-```text
-  /\_/\
- ( =^.^= )   ← 装可爱的霸王喵
-  > ^ <
-```
+<p align="center">
+  <img src="brick-fall.svg" width="100" alt="砖块掉落" />
+  <img src="meow.svg" width="160" alt="霸王喵表情循环" />
+</p>
 
 ## 谁在敲键盘？
 

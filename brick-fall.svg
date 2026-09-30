@@ -1,0 +1,17 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="砖块掉落动画">
+  <!-- 砖块1 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,-30;0,210" dur="3s" repeatCount="indefinite"/>
+    <rect x="10" y="0" width="44" height="22" rx="3" fill="#E78284" stroke="#B4637A" stroke-width="2"/>
+  </g>
+  <!-- 砖块2 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,-30;0,210" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+    <rect x="68" y="0" width="44" height="22" rx="3" fill="#E78284" stroke="#B4637A" stroke-width="2"/>
+  </g>
+  <!-- 砖块3 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,-30;0,210" dur="4.2s" begin="1.8s" repeatCount="indefinite"/>
+    <rect x="126" y="0" width="44" height="22" rx="3" fill="#E78284" stroke="#B4637A" stroke-width="2"/>
+  </g>
+</svg>
